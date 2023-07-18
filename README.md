@@ -1,4 +1,3 @@
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -26,7 +25,7 @@
 
 # To Do App 📝 <a name="about-project"></a>
 
-To-do-app is a tool that helps to organize your day, built with HTML, CSS,    JavaScript and React. With its management features, User can add, mark as completed, remove tasks and make changes to tasks.
+To-do-app is a tool that helps to organize your day, built with HTML, CSS, JavaScript and React. With its management features, User can add, mark as completed, remove tasks and make changes to tasks.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -40,8 +39,6 @@ To-do-app is a tool that helps to organize your day, built with HTML, CSS,    Ja
     <li><a href="https://developer.mozilla.org/en-US/docs/Web/javascript">JavaScript</a></li>
     <li><a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_resources">React</a></li>
   </ul>
-</details>
-
 </details>
 
 <!-- Features -->
@@ -186,4 +183,3 @@ I would like to thank Microverse for teaching and enforcing professional level p
 This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
